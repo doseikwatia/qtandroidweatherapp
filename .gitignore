@@ -1,0 +1,9 @@
+*.obj
+debug/
+release/
+android-build
+*pro.user
+Makefile
+*.Debug
+*.Release
+moc*
